@@ -1,14 +1,3 @@
-
-# 🌈 Flutter Login & Sign Up UI (Simple Version)
-
-This project contains a very simple Flutter UI with two screens:
-- **Login Page**
-- **Sign Up Page**
-
-Both pages include colorful gradient backgrounds and basic form fields.
-
----
-
 ## 🚀 Features Used
 
 ### ✅ 1. `MaterialApp` (in main.dart)
@@ -119,38 +108,3 @@ TextButton(
 ```
 
 ---
-
-## 📁 Project Structure
-
-```
-lib/
-├── main.dart         → App entry and route to LoginPage
-├── login_page.dart   → UI for Login screen
-└── signup_page.dart  → UI for Sign Up screen
-```
-
----
-
-## 📷 UI Preview (Design Inspiration)
-The UI is inspired by colorful gradient-based login designs with modern form fields and minimal controls.
-
----
-
-## 🧠 Summary
-
-This project demonstrates how to:
-- Build a clean UI with gradient backgrounds.
-- Use basic input fields.
-- Navigate between pages using Navigator.
-- Keep the code very short and beginner-friendly.
-
----
-
-## ✅ Next Steps (Optional ideas)
-- Add form validation
-- Connect to Firebase Auth
-- Add social login buttons (e.g., Google, Facebook)
-
----
-
-Made with ❤️ in Flutter
