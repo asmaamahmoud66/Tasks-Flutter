@@ -40,4 +40,4 @@ lib/
 
 ## 🎥 Demo Video
 
-[▶️ Watch the demo video](assets/vid.mp4)
+[▶️ Watch the demo video](vid.mp4)
