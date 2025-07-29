@@ -111,7 +111,7 @@ Developed with ❤️ using Flutter & Firebase.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screen.png"  width="300">
-  <img src="screen2.png" width="300">
+  <img src="screen.jpg"  width="300">
+  <img src="screen2.jpg" width="300">
 </p>
 
