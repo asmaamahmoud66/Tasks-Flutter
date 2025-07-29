@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973046162201",
+    "project_id": "asmaa-4f152",
+    "storage_bucket": "asmaa-4f152.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973046162201:android:360c158aa4856bce6e5b88",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973046162201-lm6vuj20f2iu61kaal67nsopvvj51bkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMl4D-I1woKiFuZ-kkcTfcEe4xTTnqjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973046162201-lm6vuj20f2iu61kaal67nsopvvj51bkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
